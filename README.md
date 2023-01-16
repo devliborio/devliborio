@@ -7,8 +7,6 @@
 
 <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api?username=devliborio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api/top-langs/?username=devliborio&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 
-![Snake animation](https://github.com/devliborio/devliborio/blob/output/github-contribution-grid-snake.svg)
-
 ## Tecnologias que uso no meu dia! 👾
 
 <div style="display: inline-block"><br/>

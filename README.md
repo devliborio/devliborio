@@ -1,4 +1,4 @@
-### Olá! Eu sou Guilherme Libório 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7ED1B&width=435&lines=Bem+vindo!+Eu+sou+Guilherme+Lib%C3%B3rio!;Sou+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 [![OS Mobile](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![OS Desktop](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()

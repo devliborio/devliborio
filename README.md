@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7ED1B&width=435&lines=Bem+vindo!+Eu+sou+Guilherme+Lib%C3%B3rio!;Sou+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
-[![OS Mobile](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![OS Desktop](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/guiliborio/)
 
 <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api?username=devliborio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api/top-langs/?username=devliborio&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-
 
 ### Habilidades 🛠️
 
@@ -28,5 +24,12 @@
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+#### Ferramentas e Tecnologias 
 
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
+---
+<p align="center">
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" align="center">
+</p>

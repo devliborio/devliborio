@@ -19,10 +19,7 @@
   <summary><h3>📘 Meus Melhores Projetos</h3></summary>
 
   <p align="left">
-    <a href="https://github.com/devliborio/PlatformASK"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devliborio&repo=platformask&theme=vision-friendly-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="platformask"></a>
-    <a href="https://github.com/devliborio/JS-cronometro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devliborio&repo=js-cronometro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js-cronometro"></a>
-    <a href="https://github.com/devliborio/JS-relogio-digital"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devliborio&repo=js-relogio-digital&theme=vision-friendly-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js-relogio-digital"></a>
-    <a href="https://github.com/devliborio/git-definitivo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devliborio&repo=git-definitivo&theme=vision-friendly-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="git-definitivo"></a>
+
   </p>
   
   <a href="https://github.com/devliborio?tab=repositories&sort=stargazers"><img alt="Todos os repositorios" title="Todos os repositorios" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Todos%20Os%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>

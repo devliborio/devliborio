@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/devliborio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7ED1B&width=435&lines=Bem+vindo!+Eu+sou+Guilherme+Lib%C3%B3rio!;Sou+Desenvolvedor+Full+Stack" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ffc000&width=435&lines=Bem+vindo!+Eu+sou+Guilherme+Lib%C3%B3rio!;Sou+Desenvolvedor+Full+Stack" /></a>
 </p>
 
 <p align="left">

@@ -9,6 +9,7 @@
     
   <a href="https://github.com/devliborio?tab=followers">
   <img alt="followers" title="Me seguindo no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/devliborio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a> <img src="https://komarev.com/ghpvc/?username=devliborio&label=Profile%20views&color=ff7421&style=flat" alt="Counter Views Profile"/> </a>
   
 </p>
 <p align="left">

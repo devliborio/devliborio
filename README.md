@@ -17,6 +17,8 @@
 <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api?username=devliborio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api/top-langs/?username=devliborio&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </p>
 
+![](https://github.com/devliborio/devliborio/blob/output/github-contribution-grid-snake.svg)
+
 <details open> 
   <summary><h3>📘 Meus Melhores Projetos</h3></summary>
 

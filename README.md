@@ -15,9 +15,9 @@
 </p>
 <p align="left">
 
-<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=devliborio&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true"/> 
-
-<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliborio&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devliborio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliborio&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  
 </p>
   
 <details open> 

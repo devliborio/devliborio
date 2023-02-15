@@ -11,6 +11,14 @@
   <img alt="followers" title="Me seguindo no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/devliborio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
  <a> <img src="https://komarev.com/ghpvc/?username=devliborio&label=Profile%20views&color=ff7421&style=flat" alt="Counter Views Profile"/> </a>
+ 
+</p>
+<p align="left">
+
+<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=devliborio&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true"/> 
+
+<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliborio&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+</p>
   
 <details open> 
   <summary><h3>📘 Meus Melhores Projetos</h3></summary>

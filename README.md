@@ -12,11 +12,6 @@
   
  <a> <img src="https://komarev.com/ghpvc/?username=devliborio&label=Profile%20views&color=ff7421&style=flat" alt="Counter Views Profile"/> </a>
   
-</p>
-<p align="left">
-<img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api?username=devliborio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-devliborio.vercel.app/api/top-langs/?username=devliborio&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</p>
-
 <details open> 
   <summary><h3>📘 Meus Melhores Projetos</h3></summary>
 

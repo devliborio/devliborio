@@ -1,8 +1,3 @@
-<p align="left">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devliborio?color=orange&label=Followers">
-  <img src="https://komarev.com/ghpvc/?username=devliborio&label=Profile%20views&color=ff7421&style=flat"/>  
-</p>
-
 <h3> 💻 GitHub Profile Stats </h3>
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devliborio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
